@@ -1,4 +1,3 @@
-#include <cstdlib>
 
 int main()
 {
